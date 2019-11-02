@@ -1,0 +1,2 @@
+include versioneer.py
+include src/ipcc_wg1_colormaps/_version.py
